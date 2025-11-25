@@ -13,3 +13,4 @@ services:
     command: postgres -c listen_addresses='*'
 volumes:
   postgres_data:
+      
